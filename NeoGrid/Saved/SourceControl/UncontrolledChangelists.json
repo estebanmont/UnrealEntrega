@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes.umap",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/textures/Car_Body_BaseColor.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/textures/Car_Body_Emissive.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/textures/Car_Body_Metallic.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/textures/Car_Body_Normal.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/textures/Car_Body_Roughness.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/textures/Car_Front_wheel_BaseColor.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/textures/Car_Front_wheel_Emissive.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/textures/Car_Front_wheel_Metallic.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/textures/Car_Front_wheel_Normal.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/textures/Car_Front_wheel_Roughness.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/textures/Car_Rear_wheel_BaseColor.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/textures/Car_Rear_wheel_Emissive.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/textures/Car_Rear_wheel_Normal.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/textures/Car_Rear_wheel_Roughness.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/Materials/Carritou.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/Materials/FrontWheel.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/Materials/Wheel.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/Materials/RearWheel.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/textures/Car_Body_BaseColor2.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/Materials/Car2.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/Materials/Ice.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/source/RearWheel.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/source/RearWheel__1_.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/Anims/BP_WheelRotation.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/source/Body.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/source/Car_Body.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/source/Car_Front_Wheel.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/source/Car_Rear_wheel.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/source/Front_wheel.uasset",
+				"C:/Users/Juanes/Documents/Unreal Projects/UnrealEntrega/NeoGrid/Content/Juanes/source/Rear_wheel.uasset"
+			]
+		}
+	]
+}
