@@ -5,7 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Mapas/Main.umap"
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Mapas/Main.umap",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Hexagono.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/MetalPlate.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Metal.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Oil_ncl1_1.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Explosion1.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Explopsion.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Oil1.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Ice1.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Ice_ncl1_1.uasset"
 			]
 		}
 	]
