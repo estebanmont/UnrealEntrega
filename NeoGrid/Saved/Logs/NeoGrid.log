@@ -1848,3 +1848,786 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.05-00.47.09:922][304]AssetCheck: New page: Asset Save: Main
 [2023.11.05-00.47.09:922][304]LogContentValidation: Display: Validating /Script/Engine.World /Game/Mapas/Main.Main
 [2023.11.05-00.47.11:436][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.11.05-00.48.02:771][669]LogSlate: Took 0.071931 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.11.05-00.48.05:138][780]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.05-00.48.05:145][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.05-00.48.05:145][780]PIE: New page: PIE session: Main (4 nov. 2023 14:48:05)
+[2023.11.05-00.48.05:145][780]LogPlayLevel: Display: Creating online subsystem for client :Context_16
+[2023.11.05-00.48.05:153][780]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.11.05-00.48.05:166][781]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Main
+[2023.11.05-00.48.05:171][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004615s)
+[2023.11.05-00.48.05:171][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Main.Main to /Game/Mapas/UEDPIE_0_Main.Main (0.004853s)
+[2023.11.05-00.48.05:194][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.11.05-00.48.05:197][781]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.05-00.48.05:197][781]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.05-00.48.05:197][781]LogAIModule: Creating AISystem for world Main
+[2023.11.05-00.48.05:198][781]LogPlayLevel: PIE: World Init took: (0.001635s)
+[2023.11.05-00.48.05:198][781]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.11.05-00.48.05:198][781]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.05-00.48.05:199][781]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.05-00.48.05:199][781]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.05-00.48.05:199][781]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.05-00.48.05:199][781]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.05-00.48.05:199][781]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.05-00.48.05:199][781]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.05-00.48.05:199][781]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.05-00.48.05:201][781]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.05-00.48.05:201][781]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.05-00.48.05:201][781]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.05-00.48.05:203][781]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.05-00.48.05:226][781]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- JBL TUNE510BT)
+[2023.11.05-00.48.05:227][781]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.05-00.48.05:227][781]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.05-00.48.05:227][781]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.05-00.48.05:228][781]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.11.05-00.48.05:228][781]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.11.05-00.48.05:230][781]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.11.05-00.48.05:230][781]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.11.05-00.48.05:230][781]LogInit: FAudioDevice initialized with ID 11.
+[2023.11.05-00.48.05:230][781]LogAudio: Display: Audio Device (ID: 11) registered with world 'Main'.
+[2023.11.05-00.48.05:230][781]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.11.05-00.48.05:233][781]LogLoad: Game class is 'GameModeBase'
+[2023.11.05-00.48.05:234][781]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2023.11.04-19.48.05
+[2023.11.05-00.48.05:234][781]LogWorld: Bringing up level for play took: 0.000896
+[2023.11.05-00.48.05:235][781]PIE: Server logged in
+[2023.11.05-00.48.05:236][781]PIE: Play in editor total start time 0,092 seconds.
+[2023.11.05-00.48.43:136][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-00.48.43:136][323]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Main
+[2023.11.05-00.48.43:136][323]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.11.05-00.48.43:137][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-00.48.43:152][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.05-00.48.43:158][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-00.48.43:178][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-00.48.43:179][323]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.11.05-00.48.43:179][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.11.05-00.48.43:181][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.11.05-00.48.43:190][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.11.05-00.48.43:315][324]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.11.05-00.51.03:303][561]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.11.05-00.51.08:755][757]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.05-00.51.08:789][757]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.05-00.51.08:954][758]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.05-00.51.11:907][893]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2023.11.05-00.51.11:908][893]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.05-00.51.17:314][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-00.51.17:449][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Hexagon" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Blueprint/BP_Hexagon.uasset" SILENT=true
+[2023.11.05-00.51.17:457][ 68]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Hexagon
+[2023.11.05-00.51.17:458][ 68]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/BP_Hexagon676A4A3D43A6BA802A5B9BB219F9C176.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Blueprint/BP_Hexagon.uasset'
+[2023.11.05-00.51.17:459][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Materials/Emmissive" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/Emmissive.uasset" SILENT=true
+[2023.11.05-00.51.17:460][ 68]LogSavePackage: Moving output files for package: /Game/Modelos/Materials/Emmissive
+[2023.11.05-00.51.17:460][ 68]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/Emmissive8FF207F646766CBAD9B61291ADA1478D.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/Emmissive.uasset'
+[2023.11.05-00.51.17:475][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 2.13 sec)
+[2023.11.05-00.51.17:505][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.11.05-00.51.17:525][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.11.05-00.51.17:542][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.11.05-00.51.17:561][ 68]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.05-00.51.17:561][ 68]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Hexagon.BP_Hexagon
+[2023.11.05-00.51.17:561][ 68]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modelos/Materials/Emmissive.Emmissive
+[2023.11.05-00.51.26:153][373]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-00.51.26:217][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Materials/Explosion1" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/Explosion1.uasset" SILENT=true
+[2023.11.05-00.51.26:219][373]LogSavePackage: Moving output files for package: /Game/Modelos/Materials/Explosion1
+[2023.11.05-00.51.26:219][373]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/Explosion1EA14D52848DDB6F5702975A74F9E4F7F.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/Explosion1.uasset'
+[2023.11.05-00.51.26:220][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Explosion1" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Explosion1.uasset" SILENT=true
+[2023.11.05-00.51.26:221][373]LogSavePackage: Moving output files for package: /Game/Modelos/Explosion1
+[2023.11.05-00.51.26:221][373]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/Explosion1EF73206A4FC6A9D044CC8588132442EF.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Explosion1.uasset'
+[2023.11.05-00.51.26:222][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Materials/Ice1" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/Ice1.uasset" SILENT=true
+[2023.11.05-00.51.26:223][373]LogSavePackage: Moving output files for package: /Game/Modelos/Materials/Ice1
+[2023.11.05-00.51.26:223][373]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/Ice1055BCC734361FC3990ACC7B5532ED207.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/Ice1.uasset'
+[2023.11.05-00.51.26:224][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Ice1" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Ice1.uasset" SILENT=true
+[2023.11.05-00.51.26:225][373]LogSavePackage: Moving output files for package: /Game/Modelos/Ice1
+[2023.11.05-00.51.26:226][373]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/Ice1968A5A28405A72BC41AB9AB5E4EBFF0E.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Ice1.uasset'
+[2023.11.05-00.51.26:226][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Materials/MetalPlate" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/MetalPlate.uasset" SILENT=true
+[2023.11.05-00.51.26:228][373]LogSavePackage: Moving output files for package: /Game/Modelos/Materials/MetalPlate
+[2023.11.05-00.51.26:228][373]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/MetalPlate274BA3F44615CAFAFCF36AA1C6D24288.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/MetalPlate.uasset'
+[2023.11.05-00.51.26:230][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/MetalPlate" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/MetalPlate.uasset" SILENT=true
+[2023.11.05-00.51.26:230][373]LogSavePackage: Moving output files for package: /Game/Modelos/MetalPlate
+[2023.11.05-00.51.26:231][373]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/MetalPlate24EDBB92472EE47EC167D684EB0DF844.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/MetalPlate.uasset'
+[2023.11.05-00.51.26:232][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Materials/Oil1" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/Oil1.uasset" SILENT=true
+[2023.11.05-00.51.26:233][373]LogSavePackage: Moving output files for package: /Game/Modelos/Materials/Oil1
+[2023.11.05-00.51.26:234][373]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/Oil114A3E74C4767C3824EC5188D8FE14CDF.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/Oil1.uasset'
+[2023.11.05-00.51.26:236][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Oil1" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Oil1.uasset" SILENT=true
+[2023.11.05-00.51.26:237][373]LogSavePackage: Moving output files for package: /Game/Modelos/Oil1
+[2023.11.05-00.51.26:238][373]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/Oil1C07455B9496C03A0044F3FAE7DAA34FD.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Oil1.uasset'
+[2023.11.05-00.51.26:249][373]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 2.23 sec)
+[2023.11.05-00.51.26:263][373]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.05-00.51.26:263][373]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modelos/Materials/Explosion1.Explosion1
+[2023.11.05-00.51.26:263][373]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Modelos/Explosion1.Explosion1
+[2023.11.05-00.51.26:263][373]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modelos/Materials/Ice1.Ice1
+[2023.11.05-00.51.26:264][373]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Modelos/Ice1.Ice1
+[2023.11.05-00.51.26:264][373]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modelos/Materials/MetalPlate.MetalPlate
+[2023.11.05-00.51.26:264][373]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Modelos/MetalPlate.MetalPlate
+[2023.11.05-00.51.26:264][373]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modelos/Materials/Oil1.Oil1
+[2023.11.05-00.51.26:264][373]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Modelos/Oil1.Oil1
+[2023.11.05-00.51.29:926][521]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.05-00.51.30:004][521]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.05-00.51.30:029][522]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.05-00.51.32:407][635]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2023.11.05-00.51.32:407][635]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.05-00.51.38:199][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-00.51.38:258][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Materials/Explosion1" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/Explosion1.uasset" SILENT=true
+[2023.11.05-00.51.38:259][866]LogSavePackage: Moving output files for package: /Game/Modelos/Materials/Explosion1
+[2023.11.05-00.51.38:259][866]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/Explosion1B365B08144896B26C41349923FE95CF9.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/Explosion1.uasset'
+[2023.11.05-00.51.38:261][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Materials/Ice1" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/Ice1.uasset" SILENT=true
+[2023.11.05-00.51.38:262][866]LogSavePackage: Moving output files for package: /Game/Modelos/Materials/Ice1
+[2023.11.05-00.51.38:263][866]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/Ice17A883BD44957E7E2A95E84B59B1DC2B5.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/Ice1.uasset'
+[2023.11.05-00.51.38:264][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Materials/MetalPlate" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/MetalPlate.uasset" SILENT=true
+[2023.11.05-00.51.38:264][866]LogSavePackage: Moving output files for package: /Game/Modelos/Materials/MetalPlate
+[2023.11.05-00.51.38:265][866]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/MetalPlateA6F3AA2249D1045B27B442BB313F7AEC.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/MetalPlate.uasset'
+[2023.11.05-00.51.38:266][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Materials/Oil1" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/Oil1.uasset" SILENT=true
+[2023.11.05-00.51.38:267][866]LogSavePackage: Moving output files for package: /Game/Modelos/Materials/Oil1
+[2023.11.05-00.51.38:268][866]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/Oil1B9B037944D5D2457E15D5880D1FCAFC1.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/Oil1.uasset'
+[2023.11.05-00.51.38:269][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Textures/Explopsion" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Textures/Explopsion.uasset" SILENT=true
+[2023.11.05-00.51.38:295][866]LogSavePackage: Moving output files for package: /Game/Modelos/Textures/Explopsion
+[2023.11.05-00.51.38:295][866]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/Explopsion4EAFBDC545532EC5CF31F0B30EE66FBC.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Textures/Explopsion.uasset'
+[2023.11.05-00.51.38:296][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Textures/Ice_ncl1_1" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Textures/Ice_ncl1_1.uasset" SILENT=true
+[2023.11.05-00.51.38:322][866]LogSavePackage: Moving output files for package: /Game/Modelos/Textures/Ice_ncl1_1
+[2023.11.05-00.51.38:322][866]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/Ice_ncl1_119DD4AC641FC1B2BF8BAB4BEF70D64E1.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Textures/Ice_ncl1_1.uasset'
+[2023.11.05-00.51.38:323][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Textures/Metal" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Textures/Metal.uasset" SILENT=true
+[2023.11.05-00.51.38:339][866]LogSavePackage: Moving output files for package: /Game/Modelos/Textures/Metal
+[2023.11.05-00.51.38:339][866]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/Metal0C58563B46BC52D9B86FEA9A4A54A4F2.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Textures/Metal.uasset'
+[2023.11.05-00.51.38:340][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Textures/Oil_ncl1_1" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Textures/Oil_ncl1_1.uasset" SILENT=true
+[2023.11.05-00.51.38:364][866]LogSavePackage: Moving output files for package: /Game/Modelos/Textures/Oil_ncl1_1
+[2023.11.05-00.51.38:364][866]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/Oil_ncl1_16D262E1E4B4DE68FF18FC39366DF65BF.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Textures/Oil_ncl1_1.uasset'
+[2023.11.05-00.51.38:375][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 2.40 sec)
+[2023.11.05-00.51.38:428][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.11.05-00.51.38:446][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.05-00.51.38:461][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.11.05-00.51.38:476][866]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.05-00.51.38:476][866]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modelos/Materials/Explosion1.Explosion1
+[2023.11.05-00.51.38:476][866]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modelos/Materials/Ice1.Ice1
+[2023.11.05-00.51.38:476][866]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modelos/Materials/MetalPlate.MetalPlate
+[2023.11.05-00.51.38:476][866]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modelos/Materials/Oil1.Oil1
+[2023.11.05-00.51.38:476][866]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Modelos/Textures/Explopsion.Explopsion
+[2023.11.05-00.51.38:476][866]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Modelos/Textures/Ice_ncl1_1.Ice_ncl1_1
+[2023.11.05-00.51.38:476][866]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Modelos/Textures/Metal.Metal
+[2023.11.05-00.51.38:476][866]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Modelos/Textures/Oil_ncl1_1.Oil_ncl1_1
+[2023.11.05-00.51.49:398][309]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.05-00.51.58:848][691]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.05-00.52.09:503][143]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.05-00.52.15:911][379]LogContentBrowser: Deferred new asset file creation: Emmissive1
+[2023.11.05-00.52.15:996][379]LogContentBrowser: Creating deferred item: Emmissive1
+[2023.11.05-00.52.16:011][380]LogContentBrowser: Renaming the item being created (Deferred Item: Emmissive1).
+[2023.11.05-00.52.27:221][786]LogContentBrowser: Attempting asset rename: Emmissive1 -> EmmissiveBlue
+[2023.11.05-00.52.27:338][786]LogContentBrowser: End creating deferred item Emmissive1
+[2023.11.05-00.52.27:369][786]LogShaderCompilers: Display: ================================================
+[2023.11.05-00.52.27:369][786]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.05-00.52.27:369][786]LogShaderCompilers: Display: Total job queries 53, among them cache hits 15 (28.30%)
+[2023.11.05-00.52.27:369][786]LogShaderCompilers: Display: Tracking 38 distinct input hashes that result in 32 distinct outputs (84.21%)
+[2023.11.05-00.52.27:369][786]LogShaderCompilers: Display: RAM used: 867,17 KiB of 1,00 GiB budget. Usage: 0.08%
+[2023.11.05-00.52.27:369][786]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.05-00.52.27:369][786]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.11.05-00.52.27:369][786]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.11.05-00.52.27:369][786]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.11.05-00.52.27:369][786]LogShaderCompilers: Display: ================================================
+[2023.11.05-00.52.29:895][873]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Modelos/Materials/EmmissiveBlue.EmmissiveBlue
+[2023.11.05-00.52.29:900][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.05-00.52.29:900][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.05-00.52.30:187][873]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.52.30:187][873]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.52.30:187][873]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.52.30:199][873]LogViewport: Scene viewport resized to 375x383, mode Windowed.
+[2023.11.05-00.52.30:309][875]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.52.30:309][875]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.52.30:309][875]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.52.30:309][875]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.52.30:309][875]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.52.33:713][  1]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.52.33:714][  1]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.52.33:714][  1]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.52.33:836][  3]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.52.33:836][  3]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.52.33:836][  3]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.52.33:836][  3]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.52.33:836][  3]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.52.34:390][ 25]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.52.34:390][ 25]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.52.34:390][ 25]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.52.34:470][ 27]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.52.34:470][ 27]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.52.34:470][ 27]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.52.34:470][ 27]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.52.34:470][ 27]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.52.35:846][ 82]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.05-00.52.35:861][ 82]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.52.35:861][ 82]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.52.35:861][ 82]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.52.36:000][ 84]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.52.36:000][ 84]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.52.36:000][ 84]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.52.36:000][ 84]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.52.36:000][ 84]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.52.50:405][697]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2023.11.05-00.52.51:130][730]LogViewport: Scene viewport resized to 375x456, mode Windowed.
+[2023.11.05-00.52.51:342][732]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2023.11.05-00.52.52:092][775]LogSlate: Window 'EmmissiveBlue' being destroyed
+[2023.11.05-00.52.53:453][852]LogMaterialEditor: Saving and Compiling material EmmissiveBlue
+[2023.11.05-00.52.53:697][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.05-00.52.54:020][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.05-00.52.54:050][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-00.52.54:434][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Materials/EmmissiveBlue" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/EmmissiveBlue.uasset" SILENT=true
+[2023.11.05-00.52.54:436][852]LogSavePackage: Moving output files for package: /Game/Modelos/Materials/EmmissiveBlue
+[2023.11.05-00.52.54:436][852]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/EmmissiveBlueF3BC32C849CF2B12208333A6C2E5D8BD.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/EmmissiveBlue.uasset'
+[2023.11.05-00.52.54:445][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 395 ms (total: 2.80 sec)
+[2023.11.05-00.52.54:446][852]AssetCheck: New page: Asset Save: EmmissiveBlue
+[2023.11.05-00.52.54:446][852]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modelos/Materials/EmmissiveBlue.EmmissiveBlue
+[2023.11.05-00.52.54:447][852]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.52.54:448][852]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.52.54:448][852]MaterialEditorStats: MaxSampler: 239 instructions
+[2023.11.05-00.52.54:448][852]MaterialEditorStats: Texture samplers: 3/16
+[2023.11.05-00.52.54:448][852]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.52.54:448][852]MaterialEditorStats: Shader Count: 16
+[2023.11.05-00.53.03:197][175]LogContentBrowser: Attempting asset rename: Emmissive -> EmmissiveRed
+[2023.11.05-00.53.03:242][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-00.53.03:342][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Hexagon" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Blueprint/BP_Hexagon.uasset" SILENT=true
+[2023.11.05-00.53.03:351][175]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Hexagon
+[2023.11.05-00.53.03:351][175]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/BP_Hexagon4CE7D9B64B395DC20B671388BE50BD58.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Blueprint/BP_Hexagon.uasset'
+[2023.11.05-00.53.03:352][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Materials/EmmissiveRed" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/EmmissiveRed.uasset" SILENT=true
+[2023.11.05-00.53.03:353][175]LogSavePackage: Moving output files for package: /Game/Modelos/Materials/EmmissiveRed
+[2023.11.05-00.53.03:353][175]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/EmmissiveRed3B7BBF9E4161721A118230BC9112A876.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/EmmissiveRed.uasset'
+[2023.11.05-00.53.03:369][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 2.92 sec)
+[2023.11.05-00.53.03:516][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2023.11.05-00.53.03:538][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.11.05-00.53.03:554][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.11.05-00.53.03:556][175]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.05-00.53.03:557][175]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Hexagon.BP_Hexagon
+[2023.11.05-00.53.03:557][175]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modelos/Materials/EmmissiveRed.EmmissiveRed
+[2023.11.05-00.53.09:583][397]LogContentBrowser: Deferred new asset file creation: EmmissiveRed1
+[2023.11.05-00.53.09:632][397]LogContentBrowser: Creating deferred item: EmmissiveRed1
+[2023.11.05-00.53.09:646][398]LogContentBrowser: Renaming the item being created (Deferred Item: EmmissiveRed1).
+[2023.11.05-00.53.14:933][640]LogContentBrowser: Attempting asset rename: EmmissiveRed1 -> EmmissiveGreen
+[2023.11.05-00.53.14:939][640]LogContentBrowser: End creating deferred item EmmissiveRed1
+[2023.11.05-00.53.23:975][983]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Modelos/Materials/EmmissiveGreen.EmmissiveGreen
+[2023.11.05-00.53.23:980][983]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.05-00.53.23:980][983]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.05-00.53.24:128][983]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.53.24:128][983]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.24:128][983]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.53.24:135][983]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2023.11.05-00.53.24:298][985]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.53.24:298][985]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.53.24:298][985]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.53.24:298][985]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.24:298][985]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.53.27:648][174]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.53.27:648][174]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.27:648][174]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.53.27:732][176]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.53.27:732][176]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.53.27:732][176]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.53.27:732][176]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.27:732][176]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.53.28:911][224]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.53.28:911][224]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.28:911][224]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.53.28:958][226]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.53.28:958][226]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.53.28:958][226]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.53.28:958][226]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.28:958][226]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.53.29:509][256]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.53.29:510][256]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.29:510][256]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.53.29:543][258]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.53.29:543][258]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.53.29:543][258]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.53.29:543][258]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.29:543][258]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.53.30:240][295]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.53.30:240][295]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.30:240][295]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.53.30:286][297]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.53.30:286][297]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.53.30:286][297]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.53.30:286][297]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.30:286][297]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.53.31:733][379]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.05-00.53.31:743][379]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.53.31:743][379]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.31:743][379]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.53.31:854][381]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.53.31:854][381]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.53.31:854][381]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.53.31:854][381]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.31:854][381]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.53.32:734][433]LogMaterialEditor: Saving and Compiling material EmmissiveGreen
+[2023.11.05-00.53.32:872][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.11.05-00.53.33:064][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.11.05-00.53.33:077][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-00.53.33:245][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Materials/EmmissiveGreen" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/EmmissiveGreen.uasset" SILENT=true
+[2023.11.05-00.53.33:248][433]LogSavePackage: Moving output files for package: /Game/Modelos/Materials/EmmissiveGreen
+[2023.11.05-00.53.33:248][433]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/EmmissiveGreen48D37AAB4A2ED67666F5629B9683941E.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/EmmissiveGreen.uasset'
+[2023.11.05-00.53.33:258][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 3.11 sec)
+[2023.11.05-00.53.33:258][433]AssetCheck: New page: Asset Save: EmmissiveGreen
+[2023.11.05-00.53.33:258][433]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modelos/Materials/EmmissiveGreen.EmmissiveGreen
+[2023.11.05-00.53.33:260][433]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.53.33:260][433]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.53.33:260][433]MaterialEditorStats: MaxSampler: 239 instructions
+[2023.11.05-00.53.33:260][433]MaterialEditorStats: Texture samplers: 3/16
+[2023.11.05-00.53.33:260][433]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.33:260][433]MaterialEditorStats: Shader Count: 16
+[2023.11.05-00.53.40:685][728]LogContentBrowser: Deferred new asset file creation: EmmissiveGreen1
+[2023.11.05-00.53.40:705][728]LogContentBrowser: Creating deferred item: EmmissiveGreen1
+[2023.11.05-00.53.40:722][729]LogContentBrowser: Renaming the item being created (Deferred Item: EmmissiveGreen1).
+[2023.11.05-00.53.51:477][228]LogContentBrowser: Attempting asset rename: EmmissiveGreen1 -> EmmissiveWhite
+[2023.11.05-00.53.51:484][228]LogContentBrowser: End creating deferred item EmmissiveGreen1
+[2023.11.05-00.53.53:499][297]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Modelos/Materials/EmmissiveWhite.EmmissiveWhite
+[2023.11.05-00.53.53:503][297]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.05-00.53.53:503][297]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.05-00.53.53:700][297]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.53.53:700][297]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.53:700][297]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.53.53:704][297]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2023.11.05-00.53.53:805][299]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.53.53:805][299]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.53.53:805][299]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.53.53:805][299]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.53:805][299]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.53.55:838][412]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.53.55:838][412]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.55:838][412]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.53.55:920][414]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.53.55:920][414]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.53.55:920][414]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.53.55:920][414]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.55:920][414]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.53.56:540][450]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.53.56:540][450]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.56:540][450]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.53.56:675][452]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.53.56:675][452]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.53.56:675][452]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.53.56:675][452]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.56:675][452]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.53.57:384][485]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.53.57:384][485]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.57:384][485]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.53.58:211][526]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.53.58:211][526]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.53.58:211][526]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.53.58:211][526]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.58:211][526]MaterialEditorStats: Shader Count: 3
+[2023.11.05-00.53.59:293][534]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.53.59:294][534]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.59:294][534]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.53.59:356][536]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.53.59:356][536]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.53.59:356][536]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.53.59:357][536]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.53.59:357][536]MaterialEditorStats: Shader Count: 2
+[2023.11.05-00.54.00:850][611]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.54.00:850][611]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.54.00:850][611]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.54.00:940][613]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.54.00:940][613]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.54.00:940][613]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.54.00:940][613]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.54.00:940][613]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.54.01:566][645]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.54.01:566][645]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.54.01:566][645]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.54.01:598][647]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.54.01:598][647]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.54.01:598][647]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.54.01:598][647]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.54.01:598][647]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.54.03:292][740]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.54.03:292][740]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.54.03:292][740]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.54.03:384][742]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.54.03:384][742]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.54.03:385][742]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.54.03:385][742]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.54.03:385][742]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.54.04:162][786]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.05-00.54.04:172][786]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.54.04:172][786]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.54.04:172][786]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.54.04:274][788]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.54.04:274][788]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.54.04:274][788]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.54.04:274][788]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.54.04:274][788]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.54.06:667][930]LogMaterialEditor: Saving and Compiling material EmmissiveWhite
+[2023.11.05-00.54.06:826][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.11.05-00.54.07:027][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.11.05-00.54.07:041][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-00.54.07:189][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Materials/EmmissiveWhite" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/EmmissiveWhite.uasset" SILENT=true
+[2023.11.05-00.54.07:191][930]LogSavePackage: Moving output files for package: /Game/Modelos/Materials/EmmissiveWhite
+[2023.11.05-00.54.07:191][930]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/EmmissiveWhiteBB6DDCA04003F741FE1B6682AF7032BB.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/EmmissiveWhite.uasset'
+[2023.11.05-00.54.07:200][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 3.27 sec)
+[2023.11.05-00.54.07:201][930]AssetCheck: New page: Asset Save: EmmissiveWhite
+[2023.11.05-00.54.07:201][930]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modelos/Materials/EmmissiveWhite.EmmissiveWhite
+[2023.11.05-00.54.07:202][930]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.54.07:202][930]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.54.07:202][930]MaterialEditorStats: MaxSampler: 239 instructions
+[2023.11.05-00.54.07:202][930]MaterialEditorStats: Texture samplers: 3/16
+[2023.11.05-00.54.07:202][930]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.54.07:202][930]MaterialEditorStats: Shader Count: 16
+[2023.11.05-00.54.18:103][330]LogContentBrowser: Attempting asset rename: EmmissiveGreen -> EmmissivePurple
+[2023.11.05-00.54.18:220][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-00.54.18:373][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Materials/EmmissivePurple" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/EmmissivePurple.uasset" SILENT=true
+[2023.11.05-00.54.18:376][330]LogSavePackage: Moving output files for package: /Game/Modelos/Materials/EmmissivePurple
+[2023.11.05-00.54.18:376][330]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/EmmissivePurple70B8747542A2A52DFB71F8A0E3566F20.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/EmmissivePurple.uasset'
+[2023.11.05-00.54.18:385][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 3.43 sec)
+[2023.11.05-00.54.18:415][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.11.05-00.54.18:430][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.05-00.54.18:450][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.05-00.54.18:451][330]AssetCheck: New page: Asset Save: EmmissivePurple
+[2023.11.05-00.54.18:451][330]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modelos/Materials/EmmissivePurple.EmmissivePurple
+[2023.11.05-00.54.22:416][523]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.54.22:416][523]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.54.22:416][523]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.54.22:518][525]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.54.22:518][525]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.54.22:518][525]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.54.22:518][525]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.54.22:518][525]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.54.23:566][572]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.54.23:567][572]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.54.23:567][572]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.54.23:599][574]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.54.23:600][574]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.54.23:600][574]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.54.23:600][574]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.54.23:600][574]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.54.25:461][681]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.54.25:461][681]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.54.25:461][681]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.54.25:559][683]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.54.25:559][683]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.54.25:559][683]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.54.25:559][683]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.54.25:559][683]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.54.26:466][731]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.05-00.54.26:479][731]MaterialEditorStats: Texture samplers: 0/16
+[2023.11.05-00.54.26:479][731]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.54.26:479][731]MaterialEditorStats: Shader Count: 0
+[2023.11.05-00.54.26:566][733]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.54.26:566][733]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.54.26:566][733]MaterialEditorStats: Texture samplers: 2/16
+[2023.11.05-00.54.26:566][733]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.54.26:566][733]MaterialEditorStats: Shader Count: 4
+[2023.11.05-00.54.28:237][830]LogMaterialEditor: Saving and Compiling material EmmissivePurple
+[2023.11.05-00.54.28:330][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.11.05-00.54.28:556][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.05-00.54.28:567][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-00.54.28:715][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Materials/EmmissivePurple" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/EmmissivePurple.uasset" SILENT=true
+[2023.11.05-00.54.28:717][830]LogSavePackage: Moving output files for package: /Game/Modelos/Materials/EmmissivePurple
+[2023.11.05-00.54.28:717][830]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/EmmissivePurple0AEBE6B04543CCD2D9D8779C94C6A0A4.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/EmmissivePurple.uasset'
+[2023.11.05-00.54.28:730][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 3.59 sec)
+[2023.11.05-00.54.28:732][830]AssetCheck: New page: Asset Save: EmmissivePurple
+[2023.11.05-00.54.28:732][830]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Modelos/Materials/EmmissivePurple.EmmissivePurple
+[2023.11.05-00.54.28:733][830]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.11.05-00.54.28:733][830]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2023.11.05-00.54.28:733][830]MaterialEditorStats: MaxSampler: 239 instructions
+[2023.11.05-00.54.28:733][830]MaterialEditorStats: Texture samplers: 3/16
+[2023.11.05-00.54.28:733][830]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.11.05-00.54.28:733][830]MaterialEditorStats: Shader Count: 16
+[2023.11.05-00.54.36:700][221]LogViewport: Scene viewport resized to 1145x867, mode Windowed.
+[2023.11.05-00.55.06:219][829]BlueprintLog: New page: Compile BP_Hexagon
+[2023.11.05-00.55.06:266][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.11.05-00.55.07:188][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-00.55.07:266][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Hexagon" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Blueprint/BP_Hexagon.uasset" SILENT=true
+[2023.11.05-00.55.07:274][876]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Hexagon
+[2023.11.05-00.55.07:275][876]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/BP_HexagonF59520DC4CD2C67806A700AC03670BD2.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Blueprint/BP_Hexagon.uasset'
+[2023.11.05-00.55.07:284][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 3.69 sec)
+[2023.11.05-00.55.07:286][876]AssetCheck: New page: Asset Save: BP_Hexagon
+[2023.11.05-00.55.07:286][876]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Hexagon.BP_Hexagon
+[2023.11.05-00.58.40:896][122]BlueprintLog: New page: Compile BP_Hexagon
+[2023.11.05-00.58.40:944][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.05-00.58.42:503][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-00.58.42:703][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Hexagon" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Blueprint/BP_Hexagon.uasset" SILENT=true
+[2023.11.05-00.58.42:715][209]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Hexagon
+[2023.11.05-00.58.42:715][209]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/BP_Hexagon155254F54DA036E254515C94230415A9.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Blueprint/BP_Hexagon.uasset'
+[2023.11.05-00.58.42:726][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 223 ms (total: 3.91 sec)
+[2023.11.05-00.58.42:728][209]AssetCheck: New page: Asset Save: BP_Hexagon
+[2023.11.05-00.58.42:728][209]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Hexagon.BP_Hexagon
+[2023.11.05-01.00.12:705][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-01.00.12:801][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Main" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Mapas/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.05-01.00.12:839][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.11.05-01.00.12:850][428]LogSavePackage: Moving output files for package: /Game/Mapas/Main
+[2023.11.05-01.00.12:851][428]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/MainE4A4F58E4F78DD89D3B828BA10844956.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Mapas/Main.umap'
+[2023.11.05-01.00.12:857][428]LogFileHelpers: Saving map 'Main' took 0.056
+[2023.11.05-01.00.12:869][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 4.08 sec)
+[2023.11.05-01.00.12:871][428]AssetCheck: New page: Asset Save: Main
+[2023.11.05-01.00.12:871][428]LogContentValidation: Display: Validating /Script/Engine.World /Game/Mapas/Main.Main
+[2023.11.05-01.00.14:298][499]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.05-01.00.14:308][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.05-01.00.14:308][499]PIE: New page: PIE session: Main (4 nov. 2023 15:00:14)
+[2023.11.05-01.00.14:346][499]LogPlayLevel: Display: Creating online subsystem for client :Context_20
+[2023.11.05-01.00.14:350][499]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.11.05-01.00.14:367][500]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Main
+[2023.11.05-01.00.14:370][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002739s)
+[2023.11.05-01.00.14:370][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Main.Main to /Game/Mapas/UEDPIE_0_Main.Main (0.002783s)
+[2023.11.05-01.00.14:390][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.05-01.00.14:391][500]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.05-01.00.14:391][500]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.05-01.00.14:392][500]LogAIModule: Creating AISystem for world Main
+[2023.11.05-01.00.14:392][500]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2023.11.05-01.00.14:392][500]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.11.05-01.00.14:392][500]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.05-01.00.14:392][500]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.05-01.00.14:392][500]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.05-01.00.14:392][500]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.05-01.00.14:392][500]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.05-01.00.14:392][500]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.05-01.00.14:392][500]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.05-01.00.14:392][500]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.05-01.00.14:393][500]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.05-01.00.14:393][500]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.05-01.00.14:393][500]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.05-01.00.14:396][500]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.05-01.00.14:425][500]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- JBL TUNE510BT)
+[2023.11.05-01.00.14:425][500]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.05-01.00.14:425][500]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.05-01.00.14:425][500]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.05-01.00.14:426][500]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.11.05-01.00.14:426][500]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.11.05-01.00.14:429][500]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.11.05-01.00.14:429][500]LogInit: FAudioDevice initialized with ID 12.
+[2023.11.05-01.00.14:429][500]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.11.05-01.00.14:429][500]LogAudio: Display: Audio Device (ID: 12) registered with world 'Main'.
+[2023.11.05-01.00.14:429][500]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.11.05-01.00.14:433][500]LogLoad: Game class is 'GameModeBase'
+[2023.11.05-01.00.14:434][500]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2023.11.04-20.00.14
+[2023.11.05-01.00.14:434][500]LogWorld: Bringing up level for play took: 0.000932
+[2023.11.05-01.00.14:435][500]PIE: Server logged in
+[2023.11.05-01.00.14:436][500]PIE: Play in editor total start time 0,129 seconds.
+[2023.11.05-01.00.20:707][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-01.00.20:708][772]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Main
+[2023.11.05-01.00.20:708][772]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.11.05-01.00.20:708][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-01.00.20:722][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.05-01.00.20:729][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-01.00.20:747][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-01.00.20:747][772]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.11.05-01.00.20:747][772]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.11.05-01.00.20:749][772]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.11.05-01.00.20:756][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.11.05-01.00.20:902][773]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.11.05-01.00.21:841][795]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.05-01.00.21:850][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.05-01.00.21:850][795]PIE: New page: PIE session: Main (4 nov. 2023 15:00:21)
+[2023.11.05-01.00.21:850][795]LogPlayLevel: Display: Creating online subsystem for client :Context_21
+[2023.11.05-01.00.21:853][795]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.11.05-01.00.21:868][796]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Main
+[2023.11.05-01.00.21:871][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002486s)
+[2023.11.05-01.00.21:871][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Main.Main to /Game/Mapas/UEDPIE_0_Main.Main (0.002530s)
+[2023.11.05-01.00.21:894][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.11.05-01.00.21:896][796]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.05-01.00.21:896][796]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.05-01.00.21:897][796]LogAIModule: Creating AISystem for world Main
+[2023.11.05-01.00.21:897][796]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2023.11.05-01.00.21:897][796]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.11.05-01.00.21:897][796]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.05-01.00.21:897][796]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.05-01.00.21:897][796]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.05-01.00.21:897][796]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.05-01.00.21:898][796]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.05-01.00.21:898][796]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.05-01.00.21:898][796]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.05-01.00.21:898][796]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.05-01.00.21:898][796]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.05-01.00.21:898][796]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.05-01.00.21:898][796]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.05-01.00.21:901][796]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.05-01.00.21:924][796]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- JBL TUNE510BT)
+[2023.11.05-01.00.21:924][796]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.05-01.00.21:924][796]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.05-01.00.21:924][796]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.05-01.00.21:925][796]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.11.05-01.00.21:925][796]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.11.05-01.00.21:927][796]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.11.05-01.00.21:928][796]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.11.05-01.00.21:928][796]LogInit: FAudioDevice initialized with ID 13.
+[2023.11.05-01.00.21:928][796]LogAudio: Display: Audio Device (ID: 13) registered with world 'Main'.
+[2023.11.05-01.00.21:928][796]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.11.05-01.00.21:930][796]LogLoad: Game class is 'GameModeBase'
+[2023.11.05-01.00.21:931][796]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2023.11.04-20.00.21
+[2023.11.05-01.00.21:931][796]LogWorld: Bringing up level for play took: 0.000787
+[2023.11.05-01.00.21:932][796]PIE: Server logged in
+[2023.11.05-01.00.21:933][796]PIE: Play in editor total start time 0,083 seconds.
+[2023.11.05-01.00.26:066][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-01.00.26:066][948]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Main
+[2023.11.05-01.00.26:066][948]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.11.05-01.00.26:066][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-01.00.26:093][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.05-01.00.26:098][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-01.00.26:115][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-01.00.26:115][948]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.11.05-01.00.26:115][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.11.05-01.00.26:117][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.11.05-01.00.26:127][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.11.05-01.00.26:236][949]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.11.05-01.00.27:156][977]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.05-01.00.27:165][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.05-01.00.27:165][977]PIE: New page: PIE session: Main (4 nov. 2023 15:00:27)
+[2023.11.05-01.00.27:165][977]LogPlayLevel: Display: Creating online subsystem for client :Context_22
+[2023.11.05-01.00.27:168][977]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.11.05-01.00.27:190][978]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Main
+[2023.11.05-01.00.27:194][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004920s)
+[2023.11.05-01.00.27:195][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Main.Main to /Game/Mapas/UEDPIE_0_Main.Main (0.004985s)
+[2023.11.05-01.00.27:219][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.11.05-01.00.27:221][978]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.05-01.00.27:221][978]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.05-01.00.27:224][978]LogAIModule: Creating AISystem for world Main
+[2023.11.05-01.00.27:224][978]LogPlayLevel: PIE: World Init took: (0.003930s)
+[2023.11.05-01.00.27:224][978]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.11.05-01.00.27:224][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.05-01.00.27:224][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.05-01.00.27:224][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.05-01.00.27:224][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.05-01.00.27:225][978]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.05-01.00.27:225][978]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.05-01.00.27:225][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.05-01.00.27:225][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.05-01.00.27:226][978]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.05-01.00.27:226][978]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.05-01.00.27:226][978]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.05-01.00.27:229][978]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.05-01.00.27:257][978]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- JBL TUNE510BT)
+[2023.11.05-01.00.27:258][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.05-01.00.27:258][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.05-01.00.27:258][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.05-01.00.27:262][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.11.05-01.00.27:263][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.11.05-01.00.27:265][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.11.05-01.00.27:265][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.11.05-01.00.27:266][978]LogInit: FAudioDevice initialized with ID 14.
+[2023.11.05-01.00.27:266][978]LogAudio: Display: Audio Device (ID: 14) registered with world 'Main'.
+[2023.11.05-01.00.27:266][978]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.11.05-01.00.27:268][978]LogLoad: Game class is 'GameModeBase'
+[2023.11.05-01.00.27:269][978]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2023.11.04-20.00.27
+[2023.11.05-01.00.27:269][978]LogWorld: Bringing up level for play took: 0.000986
+[2023.11.05-01.00.27:271][978]PIE: Server logged in
+[2023.11.05-01.00.27:272][978]PIE: Play in editor total start time 0,107 seconds.
+[2023.11.05-01.00.31:317][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-01.00.31:317][131]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Main
+[2023.11.05-01.00.31:317][131]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.11.05-01.00.31:318][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-01.00.31:344][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.05-01.00.31:349][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-01.00.31:371][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-01.00.31:371][131]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.11.05-01.00.31:371][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.11.05-01.00.31:373][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.11.05-01.00.31:382][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.11.05-01.00.31:519][132]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.11.05-01.00.32:300][150]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.05-01.00.32:308][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.05-01.00.32:308][150]PIE: New page: PIE session: Main (4 nov. 2023 15:00:32)
+[2023.11.05-01.00.32:308][150]LogPlayLevel: Display: Creating online subsystem for client :Context_23
+[2023.11.05-01.00.32:311][150]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.11.05-01.00.32:336][151]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Main
+[2023.11.05-01.00.32:340][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004363s)
+[2023.11.05-01.00.32:340][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Main.Main to /Game/Mapas/UEDPIE_0_Main.Main (0.004431s)
+[2023.11.05-01.00.32:363][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.11.05-01.00.32:365][151]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.05-01.00.32:365][151]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.05-01.00.32:366][151]LogAIModule: Creating AISystem for world Main
+[2023.11.05-01.00.32:366][151]LogPlayLevel: PIE: World Init took: (0.002151s)
+[2023.11.05-01.00.32:368][151]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.11.05-01.00.32:368][151]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.05-01.00.32:368][151]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.05-01.00.32:368][151]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.05-01.00.32:368][151]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.05-01.00.32:368][151]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.05-01.00.32:368][151]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.05-01.00.32:368][151]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.05-01.00.32:368][151]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.05-01.00.32:369][151]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.05-01.00.32:369][151]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.05-01.00.32:369][151]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.05-01.00.32:372][151]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.05-01.00.32:397][151]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- JBL TUNE510BT)
+[2023.11.05-01.00.32:397][151]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.05-01.00.32:397][151]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.05-01.00.32:397][151]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.05-01.00.32:399][151]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.11.05-01.00.32:399][151]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.11.05-01.00.32:401][151]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.11.05-01.00.32:401][151]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.11.05-01.00.32:402][151]LogInit: FAudioDevice initialized with ID 15.
+[2023.11.05-01.00.32:402][151]LogAudio: Display: Audio Device (ID: 15) registered with world 'Main'.
+[2023.11.05-01.00.32:402][151]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.11.05-01.00.32:404][151]LogLoad: Game class is 'GameModeBase'
+[2023.11.05-01.00.32:405][151]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2023.11.04-20.00.32
+[2023.11.05-01.00.32:405][151]LogWorld: Bringing up level for play took: 0.001000
+[2023.11.05-01.00.32:407][151]PIE: Server logged in
+[2023.11.05-01.00.32:408][151]PIE: Play in editor total start time 0,1 seconds.
+[2023.11.05-01.00.34:516][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-01.00.34:516][226]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Main
+[2023.11.05-01.00.34:516][226]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.11.05-01.00.34:517][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-01.00.34:524][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.05-01.00.34:531][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-01.00.34:549][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-01.00.34:549][226]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.11.05-01.00.34:550][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.11.05-01.00.34:551][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.11.05-01.00.34:560][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.11.05-01.00.34:633][227]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.11.05-01.00.35:697][262]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.05-01.00.35:706][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.05-01.00.35:706][262]PIE: New page: PIE session: Main (4 nov. 2023 15:00:35)
+[2023.11.05-01.00.35:706][262]LogPlayLevel: Display: Creating online subsystem for client :Context_24
+[2023.11.05-01.00.35:710][262]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.11.05-01.00.35:728][263]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Main
+[2023.11.05-01.00.35:734][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005895s)
+[2023.11.05-01.00.35:734][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Main.Main to /Game/Mapas/UEDPIE_0_Main.Main (0.005991s)
+[2023.11.05-01.00.35:755][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.05-01.00.35:757][263]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.05-01.00.35:757][263]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.05-01.00.35:758][263]LogAIModule: Creating AISystem for world Main
+[2023.11.05-01.00.35:759][263]LogPlayLevel: PIE: World Init took: (0.001736s)
+[2023.11.05-01.00.35:759][263]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.11.05-01.00.35:759][263]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.05-01.00.35:759][263]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.05-01.00.35:759][263]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.05-01.00.35:759][263]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.05-01.00.35:759][263]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.05-01.00.35:759][263]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.05-01.00.35:759][263]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.05-01.00.35:759][263]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.05-01.00.35:760][263]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.05-01.00.35:760][263]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.05-01.00.35:760][263]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.05-01.00.35:763][263]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.05-01.00.35:788][263]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (2- JBL TUNE510BT)
+[2023.11.05-01.00.35:789][263]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.05-01.00.35:789][263]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.05-01.00.35:789][263]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.05-01.00.35:791][263]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.11.05-01.00.35:791][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.11.05-01.00.35:793][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.11.05-01.00.35:794][263]LogInit: FAudioDevice initialized with ID 16.
+[2023.11.05-01.00.35:794][263]LogAudio: Display: Audio Device (ID: 16) registered with world 'Main'.
+[2023.11.05-01.00.35:794][263]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.11.05-01.00.35:794][263]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.11.05-01.00.35:797][263]LogLoad: Game class is 'GameModeBase'
+[2023.11.05-01.00.35:797][263]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2023.11.04-20.00.35
+[2023.11.05-01.00.35:798][263]LogWorld: Bringing up level for play took: 0.001029
+[2023.11.05-01.00.35:799][263]PIE: Server logged in
+[2023.11.05-01.00.35:800][263]PIE: Play in editor total start time 0,094 seconds.
+[2023.11.05-01.00.44:406][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-01.00.44:406][630]LogWorld: BeginTearingDown for /Game/Mapas/UEDPIE_0_Main
+[2023.11.05-01.00.44:406][630]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.11.05-01.00.44:406][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-01.00.44:424][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.05-01.00.44:429][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-01.00.44:449][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-01.00.44:449][630]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.11.05-01.00.44:449][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.11.05-01.00.44:451][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.11.05-01.00.44:460][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.11.05-01.00.44:561][631]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.11.05-01.00.46:703][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-01.00.46:812][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Main" FILE="../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Mapas/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.05-01.00.46:847][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.11.05-01.00.46:858][702]LogSavePackage: Moving output files for package: /Game/Mapas/Main
+[2023.11.05-01.00.46:858][702]LogSavePackage: Moving '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Saved/Main7BBE125E457EA68C44359998B9EB7525.tmp' to '../../../../Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Mapas/Main.umap'
+[2023.11.05-01.00.46:864][702]LogFileHelpers: Saving map 'Main' took 0.052
+[2023.11.05-01.00.46:873][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 4.25 sec)
+[2023.11.05-01.00.46:874][702]AssetCheck: New page: Asset Save: Main
+[2023.11.05-01.00.46:874][702]LogContentValidation: Display: Validating /Script/Engine.World /Game/Mapas/Main.Main
+[2023.11.05-01.01.15:218][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms

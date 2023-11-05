@@ -17,7 +17,21 @@
 				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Ice_ncl1_1.uasset",
 				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Emmissive.uasset",
 				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Blueprint/BP_Hexagon.uasset",
-				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Blueprint/E_TipoHexagono.uasset"
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Blueprint/E_TipoHexagono.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/Emmissive.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/Explosion1.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/Ice1.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/MetalPlate.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/Oil1.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Textures/Explopsion.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Textures/Ice_ncl1_1.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Textures/Metal.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Textures/Oil_ncl1_1.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/EmmissiveBlue.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/EmmissiveRed.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/EmmissiveGreen.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/EmmissiveWhite.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Materials/EmmissivePurple.uasset"
 			]
 		}
 	]
