@@ -15,7 +15,9 @@
 				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Oil1.uasset",
 				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Ice1.uasset",
 				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Ice_ncl1_1.uasset",
-				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Emmissive.uasset"
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Emmissive.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Blueprint/BP_Hexagon.uasset",
+				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Blueprint/E_TipoHexagono.uasset"
 			]
 		}
 	]
