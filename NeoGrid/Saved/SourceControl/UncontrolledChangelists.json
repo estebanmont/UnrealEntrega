@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/UnrealFinal/UnrealEntrega/NeoGrid/Content/Blueprint/BP_Hexagon.uasset",
+				"E:/UnrealFinal/UnrealEntrega/NeoGrid/Content/Mapas/Main.umap",
+				"E:/UnrealFinal/UnrealEntrega/NeoGrid/Content/Blueprint/BP_HexGrid.uasset",
 				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Mapas/Main.umap",
 				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/Hexagono.uasset",
 				"D:/Laura/Unreal Projects/Final/UnrealEntrega/NeoGrid/Content/Modelos/MetalPlate.uasset",
